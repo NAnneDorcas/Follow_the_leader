@@ -1,0 +1,8 @@
+low_hue = 32
+high_hue = 179
+low_saturation = 0
+high_saturation = 251
+low_value = 0
+high_value = 255
+white_balance_temperature = 1385
+exposure = 300
